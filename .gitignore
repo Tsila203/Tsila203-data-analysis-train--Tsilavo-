@@ -1,3 +1,4 @@
 /DATASET/
 bids.csv
 train.csv
+*.pdf
